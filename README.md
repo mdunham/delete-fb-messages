@@ -37,6 +37,10 @@ Here is what it should look like:
 
 ![Example Bookmark](http://matthewdunham.net/example2.jpg?t=1)
 
+After you've pasted the code into the console don't forget to press the Enter key on your keyboard to run the code. When it runs the console will say "Deleting all Facebook messages - By: Matthew Dunham" this tells you that it is working, and your messages should start deleting. When the script has finished deleting all your messages it will say "No more messages to delete" in the console.
+
+You can stop the delete process at anytime by closing your browser or simply refreshing the page or even just navigate away from your facebook messages page. 
+
 
 * * *
 
