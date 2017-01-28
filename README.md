@@ -6,7 +6,9 @@ JavaScript utility that allows you to auto delete all your Facebook messages. Ad
 
 The easiest way to use this utility is by dragging the following link to your bookmark bar.
 
-[Delete FB Messages]: <javascript:!function(a)%7Bvar%20b%3Dfunction()%7Bnull!%3D%3Da(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27)%3F(a(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27).click()%2CsetTimeout(c%2C200))%3Aconsole.log(%22There%20are%20no%20messages%20to%20delete%22)%7D%2Cc%3Dfunction()%7Bfor(var%20b%3Ddocument.evaluate(%27%2F%2Fspan%5Btext()%3D%22Delete%22%5D%27%2Cdocument%2Cnull%2CXPathResult.ORDERED_NODE_SNAPSHOT_TYPE%2Cnull)%2Cc%3D0%3Bc%3Cb.snapshotLength%3Bc%2B%2B)b.snapshotItem(c).click()%3BsetTimeout(d%2C200)%7D%2Cd%3Dfunction()%7Ba(%27em%5Bdata-intl-translation%3D%22Delete%22%5D%27).parentNode.click()%2Cnull!%3D%3Da(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27)%3FsetTimeout(b%2C400)%3Aconsole.log(%22No%20more%20messages%20to%20delete%22)%7D%3Bconsole.log(%22Deleting%20all%20Facebook%20messages%20-%20By%3A%20Matthew%20Dunham%22)%2Cb()%3Breturn%20false%3B%7D(function(a)%7Breturn%20document.querySelector(a)%7D)%3B>
+
+<a href="javascript:!function(a)%7Bvar%20b%3Dfunction()%7Bnull!%3D%3Da(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27)%3F(a(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27).click()%2CsetTimeout(c%2C200))%3Aconsole.log(%22There%20are%20no%20messages%20to%20delete%22)%7D%2Cc%3Dfunction()%7Bfor(var%20b%3Ddocument.evaluate(%27%2F%2Fspan%5Btext()%3D%22Delete%22%5D%27%2Cdocument%2Cnull%2CXPathResult.ORDERED_NODE_SNAPSHOT_TYPE%2Cnull)%2Cc%3D0%3Bc%3Cb.snapshotLength%3Bc%2B%2B)b.snapshotItem(c).click()%3BsetTimeout(d%2C200)%7D%2Cd%3Dfunction()%7Ba(%27em%5Bdata-intl-translation%3D%22Delete%22%5D%27).parentNode.click()%2Cnull!%3D%3Da(%27div%5Baria-label%3D%22Conversation%20actions%22%5D%27)%3FsetTimeout(b%2C400)%3Aconsole.log(%22No%20more%20messages%20to%20delete%22)%7D%3Bconsole.log(%22Deleting%20all%20Facebook%20messages%20-%20By%3A%20Matthew%20Dunham%22)%2Cb()%3Breturn%20false%3B%7D(function(a)%7Breturn%20document.querySelector(a)%7D)%3B">Delete FB Messages</a>
+
 
 * * *
 
