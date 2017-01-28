@@ -7,6 +7,7 @@ JavaScript utility that allows you to auto delete all your Facebook messages. Ad
 The easiest way to use this utility is by putting it as a button in your bookmark bar. GitHub doesn't allow javasript links to be on README pages so [Click here](http://matthewdunham.net/del-fb-msgs.html) and follow the simple one step instruction.
 
 
+
 #### Alternatively you can create the bookmark manually:
 
 Instructions for creating the bookmark:
@@ -22,16 +23,22 @@ For faster access make sure to save it to your "bookmark bar" so it is always vi
 
 
 Example of what your bookmark should look like before you actually save the new bookmark:
+
 ![Example Bookmark](http://matthewdunham.net/example1.jpg)
 
-* * *
+
+
 
 #### Running it with-out a bookmark
 
 You can also run this code using your web browser's console. First navigate to your Facebook messages page and then press Control+Shift+i on your keyboard. This will open your developer tools once it opens if you do not see the console which should be at the bottom of the window press the Escape key on your keyboard. Now you should see the console now simply copy all the code from the gist and paste it into the console and hit enter.
 
 Here is what it should look like:
+
 ![Example Bookmark](http://matthewdunham.net/example2.jpg)
+
+
+* * *
 
 
 ### Security Info
