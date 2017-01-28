@@ -26,8 +26,7 @@ Example of what your bookmark should look like before you actually save the new 
 
 ![Example Bookmark](http://matthewdunham.net/example1.jpg)
 
-
-
+* * *
 
 ### Running it with-out a bookmark
 
