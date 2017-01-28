@@ -24,7 +24,7 @@ For faster access make sure to save it to your "bookmark bar" so it is always vi
 
 Example of what your bookmark should look like before you actually save the new bookmark:
 
-![Example Bookmark](http://matthewdunham.net/example1.jpg)
+![Example Bookmark](http://matthewdunham.net/example1.jpg?t=3)
 
 * * *
 
