@@ -29,13 +29,13 @@ Example of what your bookmark should look like before you actually save the new 
 
 
 
-#### Running it with-out a bookmark
+### Running it with-out a bookmark
 
 You can also run this code using your web browser's console. First navigate to your Facebook messages page and then press Control+Shift+i on your keyboard. This will open your developer tools once it opens if you do not see the console which should be at the bottom of the window press the Escape key on your keyboard. Now you should see the console now simply copy all the code from the gist and paste it into the console and hit enter.
 
 Here is what it should look like:
 
-![Example Bookmark](http://matthewdunham.net/example2.jpg)
+![Example Bookmark](http://matthewdunham.net/example2.jpg?t=1)
 
 
 * * *
