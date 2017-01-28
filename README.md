@@ -4,9 +4,9 @@ JavaScript utility that allows you to auto delete all your Facebook messages. Ad
 
 ## Usage Instructions 
 
-The easiest way to use this utility is by putting it as a button in your bookmark bar. GitHub doesn't allow javasript links to be on README pages so [Click here](http://matthewdunham.net/del-fb-msgs.html) and follow the simple one step instruction.
+**The easiest way** to use this utility, is by putting it as a button in your bookmark bar. GitHub doesn't allow javasript links to be on README pages so **[click here](http://matthewdunham.net/del-fb-msgs.html)** and follow the simple one step instruction.
 
-
+---
 
 #### Alternatively you can create the bookmark manually:
 
