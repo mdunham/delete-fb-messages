@@ -4,13 +4,13 @@ JavaScript utility that allows you to auto delete all your Facebook messages. Ad
 
 ## Usage Instructions 
 
-**The easiest way** to use this code is by saving it as a bookmark on your browsers [bookmark bar](https://support.google.com/chrome/answer/95745?hl=en). GitHub doesn't allow javasript links to be on readme pages so **[click here](http://matthewdunham.net/del-fb-msgs.html)** and follow the simple one step instruction.
+**The easiest way** to use this code is by saving it as a bookmark on your browser's [bookmark bar](https://support.google.com/chrome/answer/95745?hl=en). GitHub doesn't allow javascript links to be on readme pages so **[click here](http://matthewdunham.net/del-fb-msgs.html)** and follow the simple one-step instruction.
 
 **If that doesn't work try the [manual method](#manual).**
 
 ### How to use the bookmark button
 
-After you have the delete button in your bookmarks using the button is easy. Simply login to your Facebook and goto your "view all messages" page. Once the page loads all you have to do is click the bookmark you just created "Delete FB Messages". Stay on the messages page until all your messages are deleted. Once a message is deleted, it's gone. There is no undelete.
+After you have the delete button in your bookmarks using the button is easy. Simply log in to your Facebook and go to your "view all messages" page. Once the page loads all you have to do is click the bookmark you just created "Delete FB Messages". Stay on the messages page until all your messages are deleted. Once a message is deleted, it's gone. There is no undelete.
 
 **To stop the delete process simply leave the messages page or just hit refresh.**
 
@@ -31,7 +31,7 @@ Instructions for creating the bookmark:
 
 For faster access make sure to save it to your "bookmark bar" so it is always visible and ready to clean up your inbox. 
 
-Example of what your bookmark should look like before you actually save the new bookmark:
+An example of what your bookmark should look like before you actually save the new bookmark:
 
 ![Example Bookmark](http://matthewdunham.net/example1.jpg?t=2)
 
@@ -50,7 +50,7 @@ Here is what it should look like:
 
 After you've pasted the code into the console don't forget to press the Enter key on your keyboard to run the code. When it runs the console will say "Deleting all Facebook messages - By: Matthew Dunham" this tells you that it is working, and your messages should start deleting. When the script has finished deleting all your messages it will say "No more messages to delete" in the console.
 
-You can stop the delete process at anytime by closing your browser or simply refreshing the page or even just navigate away from your Facebook messages page. 
+You can stop the delete process at any time by closing your browser or simply refreshing the page or even just navigate away from your Facebook messages page. 
 
 
 * * *
