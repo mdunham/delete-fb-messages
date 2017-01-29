@@ -14,7 +14,7 @@
         stepOne = function(){
             if (null !== $('div[aria-label="Conversation actions"]')) {
                 $('div[aria-label="Conversation actions"]').click();
-                setTimeout(stepTwo, 250);
+                setTimeout(stepTwo, 200);
             } else {
                 console.log('There are no messages to delete');
             }
@@ -24,12 +24,12 @@
             for (var i = 0; i < elements.snapshotLength; i++) {
                 elements.snapshotItem(i).click();
             }
-            setTimeout(stepThree, 250);
+            setTimeout(stepThree, 200);
         },
         stepThree = function(){
             $('em[data-intl-translation="Delete"]').parentNode.click();
             if (null !== $('div[aria-label="Conversation actions"]')) {
-                setTimeout(stepOne, 420);
+                setTimeout(stepOne, 600);
             } else {
                 console.log('No more messages to delete');
             }
@@ -37,4 +37,4 @@
     
     console.log('Deleting all Facebook messages - By: Matthew Dunham');
     stepOne();
-})(function(selector){ return document.querySelector(selector); });
+})(function(sel){ return document.querySelector(sel); });
